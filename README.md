@@ -1,4 +1,4 @@
-#Requirements
+# Requirements
 For building and running the application you need: 
 
 Java 8 SDk
@@ -7,7 +7,7 @@ Maven 3.6.3
 Running the application locally
 mvn spring-boot:run
 
-#Project summary
+# Project summary
 This projects consists on two users. One is a normal user and the other one is admin.
 Normal user only can be logged in or create a new account.
 
